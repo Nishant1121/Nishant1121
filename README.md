@@ -12,7 +12,7 @@
 - 🔭 Currently working on **exciting web and open-source projects**
 - 🌱 Learning more about **AI/ML**, **Cloud**, and **System Design**
 - 👯 Open to collaborating on impactful open-source projects
-- 📫 Reach me at: **nishantkumar@example.com**
+- 📫 Reach me at: **nishantaiku1121@gmail.com**
 
 ---
 
