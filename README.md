@@ -1,26 +1,22 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Nishant 👋</h1>
-<h3 align="center">A passionate Full-stack Developer | Open-Source Enthusiast | Tech Curious</h3>
+<h3 align="center">Full-stack Developer | Open-Source Enthusiast</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nishant1121&color=blueviolet&style=flat-square" alt="Profile views" />
-  <br/>
-  <a href="https://github.com/Nishant1121">
-    <img src="https://img.shields.io/badge/GitHub-Activity-lightgrey?logo=github" alt="GitHub activity badge" />
-  </a>
 </p>
 
 ---
 
-##  About Me
-- 🔭 Currently working on **[Your Project Name]()**
-- 🌱 Exploring **[Tech Stack]**, **AI/ML**, and **UI/UX Design**
-- 👯 Looking to collaborate on open-source projects that solve real-world problems
-- 📝 Writing tech + dev blogs — check them out below!
-- 📫 Get in touch: [your.email@example.com]
+## 🚀 About Me
+- 🔭 Currently working on **exciting web and open-source projects**
+- 🌱 Learning more about **AI/ML**, **Cloud**, and **System Design**
+- 👯 Open to collaborating on impactful open-source projects
+- 📫 Reach me at: **nishantkumar@example.com**
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nishant1121&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1121&theme=dracula&hide_border=true" alt="Streak Stats" />
@@ -28,32 +24,29 @@
 
 ---
 
-##  Languages & Tools
+## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-  <!-- Add more icons as needed -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
 </p>
 
 ---
 
-##  Latest Blog Post
-<!-- Optional: Automate with GitHub Actions -->
-- [Title of Your Latest Blog Post](#) – *A short description…*
-
----
-
-##  Connect with Me
+## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square" alt="Twitter" /></a>
-  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&style=flat-square" alt="Facebook" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nishant-kumar-b9aab92b7">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Nishant_1121">
+    <img src="https://img.shields.io/badge/-X-black?logo=twitter&style=for-the-badge" alt="X (Twitter)"/>
+  </a>
 </p>
 
 ---
-
-⭐ If you like what you see, feel free to **star** my repo to show some love!
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</i>
