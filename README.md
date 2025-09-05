@@ -1,6 +1,9 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Nishant 👋</h1>
-<h3 align="center">Full-stack & Android Developer | Open-Source Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Full-stack+%26+Android+Developer;Open-Source+Enthusiast;Tech+Explorer+%7C+Lifelong+Learner" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nishant1121&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -8,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## ✨ 🚀 About Me
 - 🔭 Currently working on **exciting web and Android projects**
 - 🌱 Learning more about **AI/ML**, **Cloud**, and **System Design**
 - 👯 Open to collaborating on impactful open-source projects
@@ -16,7 +19,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 ⚡ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nishant1121&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1121&theme=dracula&hide_border=true" alt="Streak Stats" />
@@ -24,7 +27,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ 🔮 Languages & Tools
 <p align="center">
   <!-- Core Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
@@ -42,7 +45,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nishant-kumar-b9aab92b7">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
@@ -56,6 +59,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐;Let's+connect+and+build+something+amazing!" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</i>
