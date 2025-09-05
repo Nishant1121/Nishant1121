@@ -26,11 +26,10 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <!-- Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <!-- Core Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
   
   <!-- Mobile -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40"/>
@@ -52,7 +51,7 @@
     <img src="https://img.shields.io/badge/-X-black?logo=twitter&style=for-the-badge" alt="X (Twitter)"/>
   </a>
   <a href="mailto:nishantaiku1121@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" alt="Email"/>
   </a>
 </p>
 
