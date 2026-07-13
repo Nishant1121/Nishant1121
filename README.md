@@ -42,7 +42,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**JobTrackr**](https://github.com/nishant-kumar1121) | Full-stack job application tracker with JWT auth, status tracking, and a filterable dashboard | React, Node.js, Express, MySQL, Tailwind CSS |
+| [**Mini Social Media Platform**](https://github.com/nishant-kumar1121) |  Built a full-stack social media platform with a Django backend and vanilla HTML5, CSS3, and JavaScript frontend, including user registration, profile pages, and session-based authentication | Django, Python, HTML5, CSS3, JavaScript (ES6), AJAX |
 | [**ShopCart**](https://github.com/nishant-kumar1121) | Multi-page e-commerce frontend with cart state management and real product data via public API | React, Context API, Bootstrap 5 |
 | [**BlogSpace**](https://github.com/nishant-kumar1121) | Full-stack blog platform with user authentication, bcrypt password hashing, and relational DB schema | React, Node.js, Express, MySQL |
 
