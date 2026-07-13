@@ -42,9 +42,9 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Mini Social Media Platform**](https://github.com/nishant-kumar1121) |  Built a full-stack social media platform with a Django backend and vanilla HTML5, CSS3, and JavaScript frontend, including user registration, profile pages, and session-based authentication | Django, Python, HTML5, CSS3, JavaScript (ES6), AJAX |
-| [**ShopCart**](https://github.com/nishant-kumar1121) | Multi-page e-commerce frontend with cart state management and real product data via public API | React, Context API, Bootstrap 5 |
-| [**BlogSpace**](https://github.com/nishant-kumar1121) | Full-stack blog platform with user authentication, bcrypt password hashing, and relational DB schema | React, Node.js, Express, MySQL |
+| [**Mini Social Media Platform**](https://github.com/Nishant1121/mini-social-media-platform) |  Built a full-stack social media platform with a Django backend and vanilla HTML5, CSS3, and JavaScript frontend, including user registration, profile pages, and session-based authentication | Django, Python, HTML5, CSS3, JavaScript (ES6), AJAX |
+| [**ZenBoard**](https://github.com/Nishant1121/zenboard) | Built a Trello-inspired Kanban board application with Django, featuring a five-column workflow and drag-and-drop task movement via the HTML5 Drag and Drop API. | Django, Python, HTML5, CSS3, JavaScript, AJAX |
+| [**Shopnext– E-Commerce Platform**](https://github.com/Nishant1121/SHOPNEXT-ECOM-MERN) | Building a full-stack e-commerce application on the MERN stack, with a REST API in Node.js and Express.js using MongoDB and Mongoose for product, user, and order data models. |  React.js, Node.js, Express.js, MongoDB, JWT |
 
 ---
 
